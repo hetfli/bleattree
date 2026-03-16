@@ -1,0 +1,73 @@
+{
+  "_comment": "You can use 'image' parameter on any link to use a local image instead of favicon. Example: \"image\": \"images/myicon.png\"",
+  "profile": {
+    "name": "hetfli",
+    "othername": "flin",
+    "birthday": "2001-01-11",
+    "pronouns": "they / she",
+    "bio": "hi! I'm flin, a cat-deer thing (sometimes goat) that does art sometimes :3 im a big nerd about cybersecurity, gaming, biking, rock climbing (i suck), & general makerspace stuff.",
+    "photos": [
+      {
+        "url": "images/pfp.jpeg",
+        "tagline": "this is my sona, flin!"
+      },
+      {
+        "url": "images/deza-suit.jpeg",
+        "tagline": "this is a fursuit i have! its a goat-demon-thing named deza!!"
+      }
+    ]
+  },
+  "theme": {
+    "backgroundColor": "#1e1e2e",
+    "cardColor": "#313244",
+    "textColor": "#cdd6f4",
+    "accentColor": "#b4befe",
+    "linkHoverColor": "#cba6f7"
+  },
+  "sections": [
+    {
+      "title": "💬 Contact",
+      "note": "dms are preferred through twitter first! i also have telegram, but i don't like keeping that public facing anymore :')",
+      "links": [
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/hetfli"
+        },
+        {
+          "title": "discord",
+          "url": "https://discord.com/users/bleaterade"
+        },
+        {
+          "title": "email (hetflii@gmail.com)",
+          "url": "mailto:hetflii@gmail.com",
+          "icon": "📧"
+        }
+      ]
+    },
+    {
+      "title": "👥 Socials",
+      "note": "mostly active on twitter right now :3",
+      "links": [
+        {
+          "title": "twitter",
+          "url": "https://twitter.com/hetfli"
+        },
+        {
+          "title": "instagram",
+          "url": "https://instagram.com/bleatbra.in"
+        },
+        {
+          "title": "furaffinity",
+          "url": "https://www.furaffinity.net/user/hetfli"
+        },
+        {
+          "title": "youtube",
+          "url": "https://youtube.com/@hetfli"
+        }
+      ]
+    }
+  ],
+  "social": [
+
+  ]
+}
