@@ -5,7 +5,7 @@
     "othername": "flin",
     "birthday": "2001-01-11",
     "pronouns": "they / she",
-    "bio": "hi! I'm flin, a cat-deer thing (sometimes goat) that does art sometimes :3 im a big nerd about cybersecurity, gaming, biking, rock climbing (i suck), & general makerspace stuff.",
+    "bio": "hi! I'm flin, a cat-deer thing (sometimes goat) that does art sometimes :3 im a big nerd about cybersecurity, gaming, biking, rock climbing (i suck), & general makerspace stuff. check out my links!",
     "photos": [
       {
         "url": "images/pfp.jpeg",
@@ -26,13 +26,23 @@
   },
   "sections": [
     {
-      "title": "💬 Contact",
-      "note": "dms are preferred through twitter first! i also have telegram, but i don't like keeping that public facing anymore :')",
+      "title": "💰 Support me",
+      "note": "throw me some bones if you like what i do! no pressure :3",
       "links": [
         {
-          "title": "twitter",
-          "url": "https://twitter.com/hetfli"
+          "title": "kofi",
+          "url": "https://ko-fi.com/hetfli"
         },
+        {
+          "title": "paypal",
+          "url": "https://www.paypal.biz/fliart"
+        }
+      ]
+    },
+    {
+      "title": "💬 Contact",
+      "note": "dms are preferred through twitter/bsky first! pls have relevant stuff to dm abt if we're not close, i prop wont entertain cold open hi's with no substance :')",
+      "links": [
         {
           "title": "discord",
           "url": "https://discord.com/users/bleaterade"
@@ -46,15 +56,23 @@
     },
     {
       "title": "👥 Socials",
-      "note": "mostly active on twitter right now :3",
+      "note": "mostly active on twitter right now :V",
       "links": [
         {
           "title": "twitter",
           "url": "https://twitter.com/hetfli"
         },
         {
+          "title": "bluesky",
+          "url": "https://bsky.app/profile/hetfli.bsky.social"
+        },
+        {
           "title": "instagram",
           "url": "https://instagram.com/bleatbra.in"
+        },
+        {
+          "title": "reddit",
+          "url": "https://www.reddit.com/user/hetfli/"
         },
         {
           "title": "furaffinity",
